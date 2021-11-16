@@ -10,7 +10,7 @@ sections:
       - image_alt: Logo 1
       - image_alt: Logo 2
       - image_alt: Logo 3
-      - image: images/logo-4.svg
+      - image: /images/VISUAL EFFECTS (4).png
         image_alt: Logo 4
       - title: lorem-ipsum
         subtitle: lorem-ipsum
