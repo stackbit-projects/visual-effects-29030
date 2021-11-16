@@ -8,8 +8,7 @@ sections:
     col_number: three
     grid_items:
       - image_alt: Logo 1
-      - image: images/logo-2.svg
-        image_alt: Logo 2
+      - image_alt: Logo 2
       - image: images/logo-3.svg
         image_alt: Logo 3
       - image: images/logo-4.svg
