@@ -12,8 +12,7 @@ sections:
       - image_alt: Logo 3
       - image: images/logo-4.svg
         image_alt: Logo 4
-      - image: images/logo-5.svg
-        image_alt: Logo 5
+      - image_alt: Logo 5
   - section_id: lorem-ipsum
     title: E-Commerce Website Design Tips and Best Practices
     image_alt: lorem-ipsum
