@@ -12,6 +12,21 @@ sections:
       - image_alt: Logo 3
       - image: images/logo-4.svg
         image_alt: Logo 4
+      - title: lorem-ipsum
+        subtitle: lorem-ipsum
+        image_alt: lorem-ipsum
+        content: >-
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          - Lorem ipsum
+
+          - dolor sit amet
+        actions: []
       - image_alt: Logo 5
   - section_id: lorem-ipsum
     title: E-Commerce Website Design Tips and Best Practices
