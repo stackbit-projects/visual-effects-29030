@@ -11,7 +11,6 @@ sections:
       - image_alt: Logo 2
       - image_alt: Logo 3
       - image_alt: Logo 4
-        image: /images/VISUAL EFFECTS-dabde486.png
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         image_alt: lorem-ipsum
