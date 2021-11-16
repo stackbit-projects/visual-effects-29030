@@ -20,7 +20,10 @@ sections:
 layout: advanced
 seo:
   title: VISUAL EFFECTS -  Increase Real Website Visitors To Website
-  description: ''
+  description: >-
+    Increase Real Website Visitors To Website - Targeted Visitors is matter for
+    any business and we share tips to hit that goal and can drive high quality
+    traffic.
   robots: []
   extra: []
 ---
